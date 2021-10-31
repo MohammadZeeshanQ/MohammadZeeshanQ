@@ -22,12 +22,13 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-zeeshan-dev/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohdzzeeshan/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadzeesha99@gmail.com)
+  [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=unspalsh&logoColor=white)](https://unsplash.com/@zeeshan_ques)
   
 </div>
 
 <h3 align="center">Scripting & Languages:</h3>
 
-<p align="center"> 
+<p align="center" style='margin-bottom:1rem;'> 
   <a target="_blank" rel="noopener noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="html5" width="80" height="40"/> 
   </a>
@@ -48,7 +49,7 @@
   
 <h3 align="center">CSS Framework:</h3>
 
-<p align="center"> 
+<p align="center" style='margin-bottom:1rem;' > 
   <a target="_blank" rel="noopener noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="html5" width="80" height="40"/> 
   </a>
