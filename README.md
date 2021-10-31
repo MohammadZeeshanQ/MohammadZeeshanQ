@@ -10,17 +10,18 @@
 
 - 🌱 I’m currently learning **Python, HTML5 and CSS3**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 👯 I’m looking to collaborate on **front-end projects**
 
 - 📫 How to reach me: **mohammadzeesha99@gmail.com**
 
-- ⚡ What I like to do: **I do much Photography, Gaming and Designin...**
+- ⚡ What I like to do: **I also  Photography, Travelling and Gaming...**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-zeeshan-dev/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohdzzeeshan/)
+[![image](https://img.shields.io/badge/Facebook-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohdzzeeshan/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadzeesha99@gmail.com)
   
 </div>
