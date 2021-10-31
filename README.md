@@ -1,14 +1,7 @@
-- 👋 Hi, I’m Zeeshan 
-- 👀 I’m interested in ... Front-End Development, Web Designer and UI/ UX Designer
-- 🌱 I’m currently ... An Entry-level Front-End Developer
-- 💻 React.js | Node.js | Javascript | HTML | CSS | LESS | Material-Ui| Styled-Component | Bootstrap | Email.Js
-- 📫 How to reach me ... mohammadzeesha99@gmail.com
-
-
-<h1 align="center">Hi 👋, I'm Zeeshan <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Zeeshan <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>[![Magic_Hart](https://emoji.gg/assets/emoji/6443-magic-hart.gif)](https://emoji.gg/emoji/6443-magic-hart)
 <h3 align="center">I'm a Front-End Developer & Web-Designer<h3>
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I’m interested in ... Front-End Development, Web Designer and UI/ UX Designer
 
 - 👯 I’m looking to collaborate on **front-end projects**
 
