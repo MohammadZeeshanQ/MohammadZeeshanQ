@@ -34,9 +34,6 @@
    <a target="_blank" rel="noopener noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="80" height="40"/> 
   </a>
-   <a target="_blank" rel="noopener noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="html5" width="80" height="40"/> 
-  </a>
 </p>
   
   
@@ -51,6 +48,9 @@
   </a>
     <a target="_blank" rel="noopener noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" width="80" height="40"/> 
+  </a>
+    <a target="_blank" rel="noopener noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" width="80" height="40"/> 
   </a>
 </p>
   
@@ -92,10 +92,6 @@
     <a target="_blank" rel="noopener noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" width="80" height="40"/> 
   </a>   
-  <a target="_blank" rel="noopener noreferrer"> 
-    <img src="https://miro.medium.com/max/636/1*p1TndLk3UsGPBsM7qHPZIw.png" width="80" height="40"/> 
-  </a>
- 
 </p>
   
 <p align= "center" style='margin-top:3rem;'>
