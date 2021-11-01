@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zeeshan <img height="40" src="https://emoji.gg/assets/emoji/6443-magic-hart.gif"></h1>
+<h1 align="center">Hi, I'm Zeeshan <img height="40" src="https://emoji.gg/assets/emoji/6443-magic-hart.gif"></h1>
 <h3 align="center">I'm a Front-End Developer & Web-Designer<h3>
   
 - 🌱 I’m interested in ... Front-End Development, Web Designer and UI/ UX Designer
@@ -21,7 +21,7 @@
 
 <h3>Scripting & Languages:</h3>
 
-<pstyle='margin-bottom:3rem;'> 
+<p style='margin-bottom:3rem;'> 
   <a target="_blank" rel="noopener noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="html5" width="80" height="40"/> 
   </a>
@@ -51,9 +51,6 @@
   </a>
     <a target="_blank" rel="noopener noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" width="80" height="40"/> 
-  </a>
-    <a target="_blank" rel="noopener noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" width="80" height="40"/> 
   </a>
 </p>
   
