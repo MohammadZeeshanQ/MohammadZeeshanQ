@@ -24,7 +24,7 @@
 ## 📊 Github Stats
 
   <p align="center">
-    <a href="https://github.com/MohammadZeeshanQ"><img align="center" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&locale=en&theme=algolia" alt="Zeeshan" height="192px"/></a>
+    <a href="https://github.com/MohammadZeeshanQ"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadZeeshanQ&show_icons=true&locale=en&theme=algolia" alt="Zeeshan" height="192px"/></a>
 	</p>
 	<p  align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammadZeeshanQ&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
