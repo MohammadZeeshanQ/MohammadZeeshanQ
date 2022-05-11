@@ -16,34 +16,25 @@
   
 </div>
 
-
-  
-
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadZeeshanQ&theme=algolia" alt="Zeeshna18" /></p>
-
-
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadZeeshanQ&theme=algolia" alt="Zeeshan" /></p>
 <br/>
 
 ## 📊 Github Stats
 
   <p align="center">
-    <a href="https://github.com/Candida18"><img align="center" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
+    <a href="https://github.com/MohammadZeeshanQ"><img align="center" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&locale=en&theme=algolia" alt="Zeeshan" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammadZeeshanQ&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
 	</p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
-
    <a href="https://github.com/MohammadZeeshanQ"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MohammadZeeshanQ&custom_title=Mohammad%20Zeeshan's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
-
 
 <br/>
 
