@@ -63,7 +63,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
-   <a href="https://github.com/MohammadZeeshanQ"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MohammadZeeshanQ&custom_title=Mohammad%20Zeeshan's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/MohammadZeeshanQ"><img alt="MohammadZeeshanQ's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MohammadZeeshanQ&custom_title=Mohammad%20Zeeshan's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <br/>
