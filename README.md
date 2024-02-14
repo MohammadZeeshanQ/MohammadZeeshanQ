@@ -1,10 +1,4 @@
   <h1 align="center">Hi , I'm Mohammad Zeeshan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  
-- 🌱 I’m interested in ... Front-End Development, Web Designer and UI/ UX Designer
-
-- 👯 I’m looking to collaborate on **Front-end projects**
-
-- Portfolio **https://mohammadzeeshanq.github.io/earth-developer/#/**
 
 - 📫 How to reach me: **mohammadzeesha99@gmail.com**
 
@@ -15,11 +9,6 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadzeesha99@gmail.com)
   
 </div>
-
-## Fiverr
-<a href='https://www.fiverr.com/zeeshan_q'>
-	<p><img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></p>
-</a>
 
 ## Skills
 <p>
@@ -37,13 +26,6 @@
 	<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 	<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 	<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-## Designing Skills
-<p>
-	<img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
-	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-	<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
 </p>
 
 ## 🔥 Streak Stats
