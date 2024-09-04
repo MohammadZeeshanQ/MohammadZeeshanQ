@@ -34,7 +34,4 @@
 <br/>
 
 ## 📊 Github Stats
-	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammadZeeshanQ&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
-	</p>
- <br/>
+
