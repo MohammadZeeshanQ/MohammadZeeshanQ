@@ -34,19 +34,7 @@
 <br/>
 
 ## 📊 Github Stats
-
-  <p align="center">
-    <a href="https://github.com/MohammadZeeshanQ"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadZeeshanQ&show_icons=true&locale=en&theme=algolia" alt="Zeeshan" height="192px"/></a>
-	</p>
 	<p  align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammadZeeshanQ&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
 	</p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-   <a href="https://github.com/MohammadZeeshanQ"><img alt="MohammadZeeshanQ's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MohammadZeeshanQ&custom_title=Mohammad%20Zeeshan's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-<br/>
-
+ 
