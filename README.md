@@ -66,17 +66,15 @@
 
 ---
 
-## 🔥 GitHub Streak Stats
+## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadZeeshanQ&theme=algolia" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=algolia" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadZeeshanQ&show_icons=true&theme=algolia" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadZeeshanQ&layout=compact&theme=algolia" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=algolia" />
 </p>
 
 ---
